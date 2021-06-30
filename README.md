@@ -1,4 +1,4 @@
-# Leetcodes
-2021 Summer Leetcode Practice
+# LeetCode
+2021 Summer LeetCode Practice
 
 Problems include: (to be continued)
